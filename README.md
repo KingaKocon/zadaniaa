@@ -1,4 +1,3 @@
-# zadaniaa
 <!DOSTYPE html>
 <html lang="pl-PL">
 <html>
@@ -31,16 +30,16 @@ Kinga Kocon
 <p align="left"> <font color="gray" size="7" face="Times New Roman"> >:( złość </font> </p> <br>
 
 <center> <p> <u> <font color="green" size="1">  80-404 Gdańsk ul.Reja 34/23</u> </p> </font> </center> <br>
-<p align="right"> <font color="pink" size="5" face="Courier New"> Ulubiony aktor: Joaquin Phoenix </font> </p> <br>
+<p align="right"> <font color="pink" size="5" face="Courier New"> Ulubiony aktor: Misha Collins </font> </p> <br>
 <p align="left"><i> <font color="blue" size="2" face="Times New Roman"> Ulubiony zespuł muzyczny:Imagine Dragons </font></i> </p> <br>
 <center> <p> <strike> <font color="purple" size="4"> data urodzenia: 04.23.2024 </strike> </p> </font> </center> <br>
 <p align="left"> <b><font color="orange" size="7" face="Verdana"> H2O </font> </b> </p> <br>
 <p align="right"> <font color="grey" size="3" face="Times New Roman"> 2+3=5 </font> </p> <br>
 <FIELDSET>
-<LEGEND> <h1 ALIGN=right> żart o betoniarce </h1> </LEGEND>
-Na budowie:<br>
-- Panie majster łopata mi się połamała!<br>
--To oprzyj się o betoniarkę <br>
+<LEGEND> <h1 ALIGN=right> żart o baterii </h1> </LEGEND>
+Przychodzi facet do kiosku i pyta:<br>
+-Czy są baterie?<br>
+-Niestety już się wyczerpały. <br>
 <IMG SRC= ALIGN=right BORDER=12 WIDTH=102 HEIGHT=122 ALT="grafika1-kocon">
 </FIELDSET>
 <br><br>
@@ -167,3 +166,9 @@ PODRĘCZNIKI Z INFORMATYKI
 </body>
 
 </html>
+
+
+
+
+
+
